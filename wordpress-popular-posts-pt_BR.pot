@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Wordpress Popular Posts\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/wordpress-popular-posts\n"
 "POT-Creation-Date: 2015-04-08 10:20-0430\n"
-"PO-Revision-Date: 2015-06-04 18:15-0300\n"
+"PO-Revision-Date: 2015-09-22 18:27-0300\n"
 "Last-Translator: Alexandre Kozoubsky <akozoubsky@gmail.com>\n"
 "Language-Team: Alexandre Kozoubsky <akozoubsky@gmail.com>\n"
 "Language: pt_BR\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 1.7.5\n"
+"X-Generator: Poedit 1.7.6\n"
 "X-Poedit-KeywordsList: _e;__;__ngettext;__ngettext_noop;_n_noop;_x;_nx;_nx_noop;_ex;"
 "esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_c;_nc;_n:1,2\n"
 "X-Poedit-Basepath: .\n"
@@ -216,7 +216,7 @@ msgstr ""
 
 #: ../views/admin.php:293
 msgid "Log views from"
-msgstr ""
+msgstr "Logar visualizações de"
 
 #: ../views/admin.php:296
 msgid "Visitors only"
@@ -950,11 +950,11 @@ msgstr ""
 
 #: ../views/form.php:15
 msgid "Total views"
-msgstr ""
+msgstr "Total de visualizações"
 
 #: ../views/form.php:16
 msgid "Avg. daily views"
-msgstr ""
+msgstr "Média diária de visualizações"
 
 #: ../views/form.php:22
 msgid "Filters"
@@ -1050,7 +1050,7 @@ msgstr ""
 
 #: ../views/form.php:103
 msgid "Display views"
-msgstr ""
+msgstr "Exibir visualizações"
 
 #: ../views/form.php:105
 msgid "Display author"
@@ -1186,8 +1186,8 @@ msgstr[1] "%s visualizações por dia"
 #, php-format
 msgid "1 view"
 msgid_plural "%s views"
-msgstr[0] "1"
-msgstr[1] "%s"
+msgstr[0] "1 visualização"
+msgstr[1] "%s visualizações"
 
 #: ../wordpress-popular-posts.php:2346
 #, php-format
